@@ -1,14 +1,6 @@
 package tyreso.gymnasium._1_hello_world;
 
-/**
- * This is a javadoc comment. It's here to explain to the next person reading
- * your code what the code does and why it does it.
- *
- * Detta är en javadoc-kommentar. Dess syfte är att förklara vad din kod gör och varför.
- *
- * @author Carl Granström
- * @since 1.0
- */
+
 public class HelloWorld {
 
     /**
